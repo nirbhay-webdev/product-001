@@ -1,0 +1,27 @@
+{
+  "name": "product001",
+  "version": "1.0.0",
+  "description": "An all Javascript based Retail Accounting and Management Software",
+  "main": "index.module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirbhay-webdev/product-001.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "NodeJS",
+    "MongoDB"
+  ],
+  "author": "Nirbhay Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirbhay-webdev/product-001/issues"
+  },
+  "homepage": "https://github.com/nirbhay-webdev/product-001#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
